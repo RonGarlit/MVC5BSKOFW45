@@ -159,15 +159,99 @@ namespace MVC5BSKOFW45.EFDAL
                 },
                 new Book {
                     Author = author3,
-                    Category = categories[3],
+                    Category = categories[2],
                     Description = "...",
                     Featured = false,
-                    ImageUrl = "http://cache.coverbrowser.com/image/oreilly-books/154-1.jpg",
-                    Isbn = "1420954394",
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/6/database_systems.jpg",
+                    Isbn = "978-1-484208-78-6",
                     ListPrice = 14.99m,
                     SalePrice = 13.49m,
                     Synopsis = "...",
-                    Title = "HTML & CSS:  The Good Parts"
+                    Title = "Database Systems"
+                },
+                new Book {
+                    Author = author3,
+                    Category = categories[2],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/6/expert_oracle_database_architecture_2nd_edition.jpg",
+                    Isbn = "978-1-4302-2946-9",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Expert Oracle Database Architecture, 2nd Edition"
+                },
+                new Book {
+                    Author = author3,
+                    Category = categories[2],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/3/understanding_mysql_internals.jpg",
+                    Isbn = "978-0-596-00957-1",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Understanding MySQL Internals"
+                },
+                new Book {
+                    Author = author3,
+                    Category = categories[2],
+                    Description = "...",
+                    Featured = true,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/6/pro_sql_server_2012_relational_database_design_and_implementation.jpg",
+                    Isbn = "978-1-4302-3695-5",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Pro SQL Server 2012 Relational Database Design and Implementation"
+                },
+                new Book {
+                    Author = author2,
+                    Category = categories[0],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/14/node.js_by_example.jpg",
+                    Isbn = "978-1-78439-571-1",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Node.js By Example"
+                },
+                new Book {
+                    Author = author2,
+                    Category = categories[0],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/14/node_cookbook.jpg",
+                    Isbn = "978-1-84951-718-8",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Node Cookbook"
+                },
+                new Book {
+                    Author = author2,
+                    Category = categories[0],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/14/node.js_design_patterns.jpg",
+                    Isbn = "978-1-78328-731-4",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "Node.js Design Patterns"
+                },
+                new Book {
+                    Author = author2,
+                    Category = categories[3],
+                    Description = "...",
+                    Featured = false,
+                    ImageUrl = "http://it-ebooks.info/images/ebooks/3/asp.net_mvc_5_with_bootstrap_and_knockout.js.jpg",
+                    Isbn = "978-1-49191-439-7",
+                    ListPrice = 14.99m,
+                    SalePrice = 13.49m,
+                    Synopsis = "...",
+                    Title = "ASP.NET MVC 5 with Bootstrap and Knockout.js"
                 }
 
             };
